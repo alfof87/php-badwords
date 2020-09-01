@@ -6,7 +6,8 @@
 
 <h1>
  <?php
-  echo $inputString;
-  echo $_GET["name"];
+  // echo $inputString;
+  // echo $_GET["name"];
+  echo $sost;
  ?>
 </h1>
