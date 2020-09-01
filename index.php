@@ -1,7 +1,7 @@
 <?php
  $inputString = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.";
  $wordToCens = $_GET["name"];
- $sost = str_replace("***", "ipsum", $inputString);
+ $sost = str_replace("ipsum", "***", $inputString);
 ?>
 
 <h1>
